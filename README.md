@@ -26,8 +26,14 @@ Face swapping involves replacing one person's face in an image or video with ano
 
 ## Conferences
 - IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+- IEEE International Conference on Computer Vision (ICCV)
+- IEEE Winter Conference on Applications of Computer Vision (WACV)
 
 ## Papers
+
+### ICCV 2023
+* Kaede Shiohara, Xingchao Yang, Takafumi Taketomi, *BlendFace: Re-designing Identity Encoders for Face-Swapping* [[Paper] (https://openaccess.thecvf.com/content/ICCV2023/papers/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shiohara_BlendFace_Re-designing_Identity_ICCV_2023_supplemental.pdf)] [[Code](https://github.com/mapooon/BlendFace)]
+* Xiaohang Ren, Xingyu Chen, Pengfei Yao, Heung-Yeung Shum, Baoyuan Wang, *Reinforced Disentanglement for Face Swapping without Skip Connection* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Reinforced_Disentanglement_for_Face_Swapping_without_Skip_Connection_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Reinforced_Disentanglement_for_ICCV_2023_supplemental.pdf)]
 
 ### CVPR 2023
 * Yixuan Li, Chao Ma, Yichao Yan, Wenhan Zhu, Xiaokang Yang, *3D-Aware Face Swapping* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_3D-Aware_Face_Swapping_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Li_3D-Aware_Face_Swapping_CVPR_2023_supplemental.pdf)] [[Code](https://github.com/VISION-SJTU/3dSwap)]
@@ -35,6 +41,10 @@ Face swapping involves replacing one person's face in an image or video with ano
 * Diqiong Jiang, Dan Song, Ruofeng Tong, Min Tang, *StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2023/supplemental/Jiang_StyleIPSB_Identity-Preserving_Semantic_CVPR_2023_supplemental.zip)] [[Code](https://github.com/a686432/StyleIPSB)]
 * Wenliang Zhao, Yongming Rao, Weikang Shi, Zuyan Liu, Jie Zhou, Jiwen Lu, *DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion* [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DiffSwap_High-Fidelity_and_Controllable_Face_Swapping_via_3D-Aware_Masked_Diffusion_CVPR_2023_paper.pdf)]
 
-### ICCV 2023
-* Kaede Shiohara, Xingchao Yang, Takafumi Taketomi, *BlendFace: Re-designing Identity Encoders for Face-Swapping* [[Paper] (https://openaccess.thecvf.com/content/ICCV2023/papers/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shiohara_BlendFace_Re-designing_Identity_ICCV_2023_supplemental.pdf)] [[Code](https://github.com/mapooon/BlendFace)]
-* Xiaohang Ren, Xingyu Chen, Pengfei Yao, Heung-Yeung Shum, Baoyuan Wang, *Reinforced Disentanglement for Face Swapping without Skip Connection* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Reinforced_Disentanglement_for_Face_Swapping_without_Skip_Connection_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Reinforced_Disentanglement_for_ICCV_2023_supplemental.pdf)]
+### AAAI 2023
+* Hao Zeng, Wei Zhang, Changjie Fan, Tangjie Lv, Suzhen Wang, Zhimeng Zhang, Bowen Ma, Lincheng Li, Yu Ding, Xin Yu, *FlowFace: Semantic Flow-Guided Shape-Aware Face Swapping* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25444/25216)]
+
+### WACV 2023
+* Felix Rosberg, Eren Erdal Aksoy, Fernando Alonso-Fernandez, Cristofer Englund, *FaceDancer: Pose- and Occlusion-Aware High Fidelity Face Swapping* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Rosberg_FaceDancer_Pose-_and_Occlusion-Aware_High_Fidelity_Face_Swapping_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Rosberg_FaceDancer_Pose-_and_WACV_2023_supplemental.zip)] [[Code](https://github.com/felixrosberg/FaceDancer)]
+* Sahng-Min Yoo, Tae-Min Choi, Jae-Woo Choi, Jong-Hwan Kim, *FastSwap: A Lightweight One-Stage Framework for Real-Time Face Swapping* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Yoo_FastSwap_A_Lightweight_One-Stage_Framework_for_Real-Time_Face_Swapping_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Yoo_FastSwap_A_Lightweight_WACV_2023_supplemental.pdf)] [[Code](https://github.com/sahngmin/fastswap)]
+* Aditya Agarwal, Bipasha Sen, Rudrabha Mukhopadhyay, Vinay P. Namboodiri, C. V. Jawahar, *FaceOff: A Video-to-Video Face Swapping System* [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/Agarwal_FaceOff_A_Video-to-Video_Face_Swapping_System_WACV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/WACV2023/supplemental/Agarwal_FaceOff_A_Video-to-Video_WACV_2023_supplemental.zip)]
