@@ -73,3 +73,6 @@ Face swapping involves replacing one person's face in an image or video with ano
 * Liming Jiang, Ren Li, Wayne Wu, Chen Qian, Chen Change Loy, *DeeperForensics-1.0: A Large-Scale Dataset for
 Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/EndlessSora/DeeperForensics-1.0)]
 * Lingzhi Li, Jianmin Bao, Hao Yang, Dong Chen, Fang Wen, *Advancing High Fidelity Identity Swapping for Forgery Detection* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Advancing_High_Fidelity_Identity_Swapping_for_Forgery_Detection_CVPR_2020_paper.pdf)]
+
+### ICCV 2019
+* Yuval Nirkin, Yosi Keller, Tal Hassner, *FSGAN: Subject Agnostic Face Swapping and Reenactment* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Nirkin_FSGAN_Subject_Agnostic_ICCV_2019_supplemental.zip)] [[Code](https://github.com/YuvalNirkin/fsgan)]
