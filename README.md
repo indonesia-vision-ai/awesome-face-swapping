@@ -25,8 +25,9 @@ Face swapping involves replacing one person's face in an image or video with ano
 <!-- readme: collaborators,contributors -end -->
 
 ## Conferences
-- IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
-- IEEE International Conference on Computer Vision (ICCV)
+- IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
+- European Conference on Computer Vision (ECCV)
+- IEEE/CVF International Conference on Computer Vision (ICCV)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 - Association for the Advancement of Artificial Intelligence (AAAI)
 
@@ -60,3 +61,5 @@ Face swapping involves replacing one person's face in an image or video with ano
 * Jiseob Kim, Jihoon Lee, Byoung-Tak Zhang, *Smooth-Swap: A Simple Enhancement for Face-Swapping With Smoothness* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Kim_Smooth-Swap_A_Simple_Enhancement_for_Face-Swapping_With_Smoothness_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Kim_Smooth-Swap_A_Simple_CVPR_2022_supplemental.pdf)]
 * Changyong Shu, Hemao Wu, Hang Zhou, Jiaming Liu, Zhibin Hong, Changxing Ding, Junyu Han, Jingtuo Liu, Errui Ding, Jingdong Wang, *Few-Shot Head Swapping in the Wild* [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Shu_Few-Shot_Head_Swapping_in_the_Wild_CVPR_2022_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2022/supplemental/Shu_Few-Shot_Head_Swapping_CVPR_2022_supplemental.zip)]
 
+### AAAI 2022
+* Zhiliang Xu, Zhibin Hong, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, *MobileFaceSwap: A Lightweight Framework for Video Face Swapping* [[Paper](https://cdn.aaai.org/ojs/20203/20203-13-24216-1-2-20220628.pdf)] [[Code](https://github.com/Seanseattle/MobileFaceSwap)]
