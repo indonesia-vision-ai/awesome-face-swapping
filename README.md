@@ -63,3 +63,8 @@ Face swapping involves replacing one person's face in an image or video with ano
 
 ### AAAI 2022
 * Zhiliang Xu, Zhibin Hong, Changxing Ding, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, *MobileFaceSwap: A Lightweight Framework for Video Face Swapping* [[Paper](https://cdn.aaai.org/ojs/20203/20203-13-24216-1-2-20220628.pdf)] [[Code](https://github.com/Seanseattle/MobileFaceSwap)]
+
+### CVPR 2021
+* Jia Li, Zhaoyang Li, Jie Cao, Xingguang Song, Ran He, *FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Li_FaceInpainter_High_Fidelity_CVPR_2021_supplemental.pdf)]
+* Gege Gao, Huaibo Huang, Chaoyou Fu, Zhaoyang Li, Ran He, *Information Bottleneck Disentanglement for Identity Swapping* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Gao_Information_Bottleneck_Disentanglement_CVPR_2021_supplemental.zip)]
+* Yuhao Zhu, Qi Li, Jian Wang, Cheng-Zhong Xu, Zhenan Sun, *One Shot Face Swapping on Megapixels* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhu_One_Shot_Face_CVPR_2021_supplemental.pdf)] [[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)]
