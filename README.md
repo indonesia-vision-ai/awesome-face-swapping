@@ -69,6 +69,9 @@ Face swapping involves replacing one person's face in an image or video with ano
 * Gege Gao, Huaibo Huang, Chaoyou Fu, Zhaoyang Li, Ran He, *Information Bottleneck Disentanglement for Identity Swapping* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Gao_Information_Bottleneck_Disentanglement_CVPR_2021_supplemental.zip)]
 * Yuhao Zhu, Qi Li, Jian Wang, Cheng-Zhong Xu, Zhenan Sun, *One Shot Face Swapping on Megapixels* [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhu_One_Shot_Face_Swapping_on_Megapixels_CVPR_2021_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Zhu_One_Shot_Face_CVPR_2021_supplemental.pdf)] [[Code](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)]
 
+### AAAI 2021
+* Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai, *FaceController: Controllable Attribute Editing for Face in the Wild* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16417/16224)]
+
 ### CVPR 2020
 * Liming Jiang, Ren Li, Wayne Wu, Chen Qian, Chen Change Loy, *DeeperForensics-1.0: A Large-Scale Dataset for
 Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/EndlessSora/DeeperForensics-1.0)]
@@ -76,3 +79,6 @@ Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/conten
 
 ### ICCV 2019
 * Yuval Nirkin, Yosi Keller, Tal Hassner, *FSGAN: Subject Agnostic Face Swapping and Reenactment* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Nirkin_FSGAN_Subject_Agnostic_ICCV_2019_supplemental.zip)] [[Code](https://github.com/YuvalNirkin/fsgan)]
+
+### ICCV 2017
+* Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis, *Fast Face-Swap Using Convolutional Neural Networks* [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)]
