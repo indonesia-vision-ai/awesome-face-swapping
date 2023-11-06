@@ -34,7 +34,7 @@ Face swapping involves replacing one person's face in an image or video with ano
 ## Papers
 
 ### ICCV 2023
-* Kaede Shiohara, Xingchao Yang, Takafumi Taketomi, *BlendFace: Re-designing Identity Encoders for Face-Swapping* [[Paper] (https://openaccess.thecvf.com/content/ICCV2023/papers/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shiohara_BlendFace_Re-designing_Identity_ICCV_2023_supplemental.pdf)] [[Code](https://github.com/mapooon/BlendFace)]
+* Kaede Shiohara, Xingchao Yang, Takafumi Taketomi, *BlendFace: Re-designing Identity Encoders for Face-Swapping* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shiohara_BlendFace_Re-designing_Identity_ICCV_2023_supplemental.pdf)] [[Code](https://github.com/mapooon/BlendFace)]
 * Xiaohang Ren, Xingyu Chen, Pengfei Yao, Heung-Yeung Shum, Baoyuan Wang, *Reinforced Disentanglement for Face Swapping without Skip Connection* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Ren_Reinforced_Disentanglement_for_Face_Swapping_without_Skip_Connection_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Ren_Reinforced_Disentanglement_for_ICCV_2023_supplemental.pdf)]
 
 ### CVPR 2023
