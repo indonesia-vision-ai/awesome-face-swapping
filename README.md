@@ -30,6 +30,9 @@ Face swapping involves replacing one person's face in an image or video with ano
 - IEEE/CVF International Conference on Computer Vision (ICCV)
 - IEEE Winter Conference on Applications of Computer Vision (WACV)
 - Association for the Advancement of Artificial Intelligence (AAAI)
+- ACM International Conference on Multimedia (MM)
+- ACM SIG International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
+- Advances in Neural Information Processing Systems (NeurIPS)
 
 ## Papers
 
@@ -72,6 +75,12 @@ Face swapping involves replacing one person's face in an image or video with ano
 ### AAAI 2021
 * Zhiliang Xu, Xiyu Yu, Zhibin Hong, Zhen Zhu, Junyu Han, Jingtuo Liu, Errui Ding, Xiang Bai, *FaceController: Controllable Attribute Editing for Face in the Wild* [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16417/16224)]
 
+### NeurIPS 2020
+* Hao Zhu, Chaoyou Fu, Qianyi Wu, Wayne Wu, Chen Qian, Ran He, *AOT: Appearance Optimal Transport Based Identity Swapping for Forgery Detection* [[Paper](https://proceedings.neurips.cc/paper_files/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Paper.pdf)] [[Supp](https://proceedings.neurips.cc/paper_files/paper/2020/file/f718499c1c8cef6730f9fd03c8125cab-Supplemental.pdf)] 
+
+### MM 2020
+* Renwang Chen, Xuanhong Chen, Bingbing Ni, Yanhao Ge, *SimSwap: An Efficient Framework For High Fidelity Face Swapping* [[Paper](https://arxiv.org/pdf/2106.06340v1.pdf)] [[Code](https://github.com/neuralchen/SimSwap)]
+
 ### CVPR 2020
 * Liming Jiang, Ren Li, Wayne Wu, Chen Qian, Chen Change Loy, *DeeperForensics-1.0: A Large-Scale Dataset for
 Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Jiang_DeeperForensics-1.0_A_Large-Scale_Dataset_for_Real-World_Face_Forgery_Detection_CVPR_2020_paper.pdf)] [[Code](https://github.com/EndlessSora/DeeperForensics-1.0)]
@@ -79,6 +88,12 @@ Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/conten
 
 ### ICCV 2019
 * Yuval Nirkin, Yosi Keller, Tal Hassner, *FSGAN: Subject Agnostic Face Swapping and Reenactment* [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Nirkin_FSGAN_Subject_Agnostic_Face_Swapping_and_Reenactment_ICCV_2019_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content_ICCV_2019/supplemental/Nirkin_FSGAN_Subject_Agnostic_ICCV_2019_supplemental.zip)] [[Code](https://github.com/YuvalNirkin/fsgan)]
+
+### SIGGRAPH 2018
+* Ryota Natsume, Tatsuya Yatagawa, Shigeo Morishima, *RSGAN: Face Swapping and Editing using Face and Hair Representation in Latent Spaces* [[Paper](https://arxiv.org/pdf/1804.03447.pdf)]
+
+### CVPR 2018
+* Jianmin Bao, Dong Chen, Fang Wen, Houqiang Li, Gang Hua, *Towards Open-Set Identity Preserving Face Synthesis* [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_Towards_Open-Set_Identity_CVPR_2018_paper.pdf)]
 
 ### ICCV 2017
 * Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis, *Fast Face-Swap Using Convolutional Neural Networks* [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)]
