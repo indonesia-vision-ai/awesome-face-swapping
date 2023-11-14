@@ -1,6 +1,11 @@
 # awesome-face-swapping
-Face swapping involves replacing one person's face in an image or video with another person's face while retaining the rest of the original content.
+Welcome to Awesome-Face-Swapping, a curated list of face swapping research papers!
 
+**What is Face Swapping?**
+Face swapping is a method in computer vision that involves seamlessly substituting the face of one individual with another’s in an image or video, while keeping the remaining original content.
+
+**About This Repository:**
+Hosted by Indonesia Vision AI, Awesome-Face-Swap serves as a comprehensive resource for anyone interested in the field of face swapping. This repository offers a curated collection of research papers from top conferences, complete with their respective codes (when available). We are continuously working on summarizing these papers to provide quick insights and a deeper understanding of the subject matter.
 
 ## Contributors
 
@@ -34,7 +39,7 @@ Face swapping involves replacing one person's face in an image or video with ano
 - ACM SIG International Conference on Computer Graphics and Interactive Techniques (SIGGRAPH)
 - Advances in Neural Information Processing Systems (NeurIPS)
 
-## Papers
+## Research Papers by Conference
 
 ### ICCV 2023
 * Kaede Shiohara, Xingchao Yang, Takafumi Taketomi, *BlendFace: Re-designing Identity Encoders for Face-Swapping* [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Shiohara_BlendFace_Re-designing_Identity_Encoders_for_Face-Swapping_ICCV_2023_paper.pdf)] [[Supp](https://openaccess.thecvf.com/content/ICCV2023/supplemental/Shiohara_BlendFace_Re-designing_Identity_ICCV_2023_supplemental.pdf)] [[Code](https://github.com/mapooon/BlendFace)]
