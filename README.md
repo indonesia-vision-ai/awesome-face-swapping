@@ -29,6 +29,11 @@ Hosted by Indonesia Vision AI, Awesome-Face-Swap serves as a comprehensive resou
 </table>
 <!-- readme: collaborators,contributors -end -->
 
+## Table of Contents
+- [Conferences](#conferences)
+- [Research Papers by Conferences](#research-papers-by-conference)
+- [Summary](#summary)
+
 ## Conferences
 - IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)
 - European Conference on Computer Vision (ECCV)
@@ -102,3 +107,7 @@ Real-World Face Forgery Detection* [[Paper](https://openaccess.thecvf.com/conten
 
 ### ICCV 2017
 * Iryna Korshunova, Wenzhe Shi, Joni Dambre, Lucas Theis, *Fast Face-Swap Using Convolutional Neural Networks* [[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Korshunova_Fast_Face-Swap_Using_ICCV_2017_paper.pdf)]
+
+
+## Summary
+Ongoing summaries of the papers listed here are available in [summary.md](https://github.com/indonesia-vision-ai/awesome-face-swapping/blob/main/summary.md)
